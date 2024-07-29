@@ -1,0 +1,23 @@
+body {
+    background-image:"D:/Drop Shipping Project/Images/Backgroundimage"/*; /* Path to your background image */
+    background-size: cover; /* Ensure the image covers the entire page */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent image repetition */
+    background-attachment: fixed; /* Keep the background image fixed when scrolling */
+    font-family: Arial, sans-serif;
+    color: white; /* Adjust text color for better contrast */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    height: 100vh; /* Ensure body takes full viewport height */
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5); /* Optional: Semi-transparent background for better text readability */
+}
+
+main {
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5); /* Optional: Semi-transparent background for better text readability */
+}
